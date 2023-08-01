@@ -10,8 +10,4 @@ function f1() {
     }
 }
 
-/*function func() {
-   $('nav').slideToggle(500)
-}*/
-
 
